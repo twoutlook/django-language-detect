@@ -1,6 +1,6 @@
-=============
-djangoi-language-detect
-=============
+======================
+django-language-detect
+======================
 
 Installation
 ============
